@@ -1,16 +1,24 @@
-## Hi there 👋
+### Hi there! I'm Nadia 👋
 
-<!--
-**chanandlerz/chanandlerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 6th-semester **Computer Science** student at **Universitas Negeri Jakarta** (UNJ), passionate about **data science, machine learning, and competitive programming**. I enjoy solving algorithmic problems, working on data-driven projects, and exploring new technologies.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Currently Up To
+- Learning **Data Science & Analytics** 
+- Competing in **NASA Space Apps Challenge** with my team on **Beyond Us**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 My Interests
+- **Machine Learning & Data Visualization** 📊
+- **Competitive Programming** (Algorithm Optimization)
+- **Cybersecurity & Encryption** 
+
+### 🏆 Some Achievements
+- Best Space Project in **NASA Space Apps Challenge** with my team on **Beyond Us**
+- Global nomination in **NASA Space Apps Challenge** with my team on **Beyond Us**
+- Speaker at **Lembaga Prestasi Pelajar** 🎙️
+
+### 📫 Let's Connect!
+- **LinkedIn**: [[LubisNadia](https://www.linkedin.com/in/lubisnadia/)]
+- **GitHub**: [[chanandlerz](https://github.com/chanandlerz)]
+- **Portfolio**: [[Data Science Portofolio](https://www.datascienceportfol.io/LubisNadia)]
+
+I'm always open to collaborations and discussions about tech, so feel free to reach out! 🚀
